@@ -27,9 +27,8 @@ class LinkedList:
 
             else:  # Complexity: O(n)
                 pointer = self.head
-                for i in range(index - 1):
+                for _ in range(index - 1):
                     pointer = pointer.next
-                    i += 1
 
                 newNode.next = pointer.next
                 pointer.next = newNode
@@ -42,7 +41,7 @@ class LinkedList:
         pointer = self.head
         i = 0
 
-        while pointer.next != None:
+        while pointer != None:
             if pointer.data == element:
                 return i
             else:
@@ -72,7 +71,7 @@ class LinkedList:
 
             elif index == self.size:
                 pointer = self.head
-                for i in range(index - 1):
+                for _ in range(index - 1):
                     pointer = pointer.next
                 garbage = pointer.next
                 self.tail = pointer
@@ -81,7 +80,7 @@ class LinkedList:
 
             else:
                 pointer = self.head
-                for i in range(index - 1):
+                for _ in range(index - 1):
                     pointer = pointer.next
                 garbage = pointer.next
                 pointer.next = pointer.next.next
