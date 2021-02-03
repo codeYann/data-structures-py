@@ -12,13 +12,13 @@
 
 | Conteúdo                                       | Status |
 | ---------------------------------------------- | ------ |
-| Nós                                            |        |
-| Listas encadeada                               | ok     |
+| Nós                                            |   ok   |
+| Lista encadeada                                |   ok   |
 | Lista duplamente encadeada                     |        |
 | Lista encadeada circular                       |        |
 | Lista duplamente circular duplamente encadeada |        |
-| Pilhas                                         | ok     |
-| Filas                                          | ok     |
+| Pilhas                                         |        |
+| Filas                                          |        |
 | Árvores                                        |        |
 
 ## License
