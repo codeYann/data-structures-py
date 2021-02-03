@@ -27,7 +27,7 @@ class DoublyList:
 
             else:  # Complexity: O(n)
                 pointer = self.head
-                for i in range(index):
+                for _ in range(index):
                     pointer = pointer.next
                 newNode.next = pointer
                 newNode.prev = pointer.prev
