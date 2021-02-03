@@ -1,1 +1,26 @@
-# data-structures-py
+# data-structures-py :book: :computer:
+
+## Estrutura de dados
+
+- As implementações das estruturas de dados serão em Python
+
+## Instalação do projeto
+
+- Para instalar o projeto: <code>git clone https://github.com/codeYann/data-structures-py </code>
+
+## Tópicos estudados
+
+| Conteúdo                                       | Status |
+| ---------------------------------------------- | ------ |
+| Nós                                            |        |
+| Listas encadeada                               | ok     |
+| Lista duplamente encadeada                     |        |
+| Lista encadeada circular                       |        |
+| Lista duplamente circular duplamente encadeada |        |
+| Pilhas                                         | ok     |
+| Filas                                          | ok     |
+| Árvores                                        |        |
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)%
