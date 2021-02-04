@@ -12,9 +12,21 @@
 
 | Conteúdo                                       | Status |
 | ---------------------------------------------- | ------ |
+<<<<<<< HEAD
 | Nós                                            | ok     |
 | Lista encadeada                                | ok     |
 | Lista duplamente encadeada                     | ok     |
+=======
+<<<<<<< HEAD
+| Nós                                            |   ok   |
+| Lista encadeada                                |   ok   |
+| Lista duplamente encadeada                     |   ok   |
+=======
+| Nós                                            | ok     |
+| Lista encadeada                                | ok     |
+| Lista duplamente encadeada                     | ok     |
+>>>>>>> stack
+>>>>>>> main
 | Lista encadeada circular                       |        |
 | Lista duplamente circular duplamente encadeada |        |
 | Pilhas                                         | ok     |
