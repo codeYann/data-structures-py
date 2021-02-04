@@ -14,7 +14,7 @@
 | ---------------------------------------------- | ------ |
 | Nós                                            |   ok   |
 | Lista encadeada                                |   ok   |
-| Lista duplamente encadeada                     |        |
+| Lista duplamente encadeada                     |   ok   |
 | Lista encadeada circular                       |        |
 | Lista duplamente circular duplamente encadeada |        |
 | Pilhas                                         |        |
@@ -23,4 +23,4 @@
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)%
+[MIT](https://choosealicense.com/licenses/mit/)
