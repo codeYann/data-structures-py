@@ -12,15 +12,15 @@
 
 | Conteúdo                                       | Status |
 | ---------------------------------------------- | ------ |
-| Nós                                            |   ok   |
-| Lista encadeada                                |   ok   |
-| Lista duplamente encadeada                     |        |
+| Nós                                            | ok     |
+| Lista encadeada                                | ok     |
+| Lista duplamente encadeada                     | ok     |
 | Lista encadeada circular                       |        |
 | Lista duplamente circular duplamente encadeada |        |
-| Pilhas                                         |        |
+| Pilhas                                         | ok     |
 | Filas                                          |        |
 | Árvores                                        |        |
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)%
+[MIT](https://choosealicense.com/licenses/mit/)
