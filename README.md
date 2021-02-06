@@ -18,7 +18,7 @@
 | Lista encadeada circular                       |        |
 | Lista duplamente circular duplamente encadeada |        |
 | Pilhas                                         | ok     |
-| Filas                                          |        |
+| Filas                                          | ok     |
 | Árvores                                        |        |
 
 ## License
